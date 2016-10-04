@@ -1,7 +1,21 @@
-table.tlist{
+.tlist{
   th{
     span{
       color:@black;
+    }
+  }
+
+  tbody{
+    tr:not(.tlist__total):not(.tlist__employees){
+      &:hover{
+        td{
+          background-color:@green !important;
+          color:@black !important;
+          a{
+            color:@black !important;
+          }
+        }
+      }
     }
   }
 }

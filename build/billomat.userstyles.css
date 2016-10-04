@@ -2,13 +2,38 @@
 /* Links */
 /* Tables */
 /* Components */
+div.buttons button {
+  color: #000;
+}
+div.buttons button:hover {
+  color: #000;
+}
+div.multibuttons a.button span {
+  color: #000;
+}
+div.pager ul.pager__selector {
+  border: 1px solid #000;
+}
+div.pager ul.pager__selector li.pager__item {
+  color: #000;
+}
+div.pager ul.pager__selector li.pager__item a {
+  color: #000;
+}
 /* Searchbar */
 #searchForm input.form__element--compact {
   color: #000;
   border: 1px solid #000;
 }
-table.tlist th span {
+.tlist th span {
   color: #000;
+}
+.tlist tbody tr:not(.tlist__total):not(.tlist__employees):hover td {
+  background-color: #9bcf16 !important;
+  color: #000 !important;
+}
+.tlist tbody tr:not(.tlist__total):not(.tlist__employees):hover td a {
+  color: #000 !important;
 }
 /* Tabs */
 .tabs ul.tabs__selector li.tabs__tab a {
