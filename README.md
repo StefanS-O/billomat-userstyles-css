@@ -18,3 +18,13 @@ Empfehlenswert sind hier:
 2. kopiert den Inhalt aus: [build/billomat.userstyles.css](https://github.com/StefanS-O/billomat-userstyles-css/blob/master/build/billomat.userstyles.css)
 
 ## Entwicklung
+
+### Voraussetzungen
+
+* Node.js & npm
+
+### Installation
+
+1. Das Repository clonen
+2. npm install
+3. grunt
