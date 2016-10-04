@@ -13,6 +13,6 @@ Empfehlenswert sind hier:
 
 2. öffnet Billomat und die Erweiterung
 
-3. kopiert den Inhalt aus: build/billomat.userstyles.css
+3. kopiert den Inhalt aus: [build/billomat.userstyles.css](https://github.com/StefanS-O/billomat-userstyles-css/blob/master/build/billomat.userstyles.css)
 
 ## Entwicklung
