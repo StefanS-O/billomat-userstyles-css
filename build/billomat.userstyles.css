@@ -1,0 +1,25 @@
+/* Colors */
+/* Links */
+/* Tables */
+/* Components */
+/* Searchbar */
+#searchForm input.form__element--compact {
+  color: #000;
+  border: 1px solid #000;
+}
+table.tlist th span {
+  color: #000;
+}
+/* Tabs */
+.tabs ul.tabs__selector li.tabs__tab a {
+  color: #000;
+}
+.tabs ul.tabs__selector li.tabs__tab.is-active a {
+  color: #000;
+  text-decoration: none;
+  border-bottom: 1px solid #9bcf16;
+}
+h3 {
+  color: #000;
+}
+/*# sourceMappingURL=billomat.userstyles.css.map */
