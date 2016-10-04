@@ -1,0 +1,27 @@
+{
+  "name": "billomat-userstyles-css",
+  "version": "1.0.0",
+  "description": "Browser side CSS to increase the contrast of the new Billomat Backend ",
+  "main": "README.md",
+  "dependencies": {
+    "grunt-contrib-less": "^1.4.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanS-O/billomat-userstyles-css.git"
+  },
+  "author": "Stefan Schulte-Ortbeck",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/StefanS-O/billomat-userstyles-css/issues"
+  },
+  "homepage": "https://github.com/StefanS-O/billomat-userstyles-css#readme"
+}
